@@ -1,0 +1,19 @@
+body {
+    background: rgb(38,35,38);
+background: linear-gradient(90deg, rgba(38,35,38,1) 0%,
+     rgba(224,183,233,1) 57%, rgba(190,165,193,1) 100%);
+    }
+
+form {
+    background: rgba(211, 151, 208, 0.66);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(2.6px);
+    -webkit-backdrop-filter: blur(2.6px);
+    border: 1px solid rgba(211, 151, 208, 1);  
+    text-align: center;  
+    margin: 30vh 30vw;
+    margin-top: 50px;
+    padding: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
